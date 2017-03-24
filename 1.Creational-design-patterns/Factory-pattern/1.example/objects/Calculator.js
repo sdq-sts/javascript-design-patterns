@@ -2,7 +2,7 @@
 
 class Calculator {
   constructor() {
-    this.role = 'make calculations'
+    this.role = 'calculate'
   }
 }
 

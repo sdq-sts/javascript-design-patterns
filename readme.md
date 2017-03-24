@@ -4,7 +4,7 @@
 
 O termo 'Design Patterns' vem de um arquiteto chamado Christopher Alexander que em 1977 escreveu o livro "A Pattern Language" sobre padrões que encontrava ao construir edifícios, casas e etc. Em resumo, design patterns tentam encontrar uma solução comum para um problema comum.
 
-Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, também conhecido como "a gangue dos quatro", pegaram o conceito de Alexander e transformaram em um livro de padrões comuns para desenvolvimento de software.
+Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, também conhecidos como "a gangue dos quatro", pegaram o conceito de Alexander e transformaram em um livro de padrões comuns para desenvolvimento de software.
 
 ---
 
@@ -13,27 +13,27 @@ Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, também conhecido com
 Esses são os principais padrões em Javascript:
 
 
-#### [Creational patterns](./1.Creational-design-patterns)
+#### [Creational pattern](./1.Creational-design-patterns)
 - Constructor
 - Module
 - Factory
 - Singleton
 
-Creational pattern é usado para criar novos objetos
+Creational pattern é usado para criar novos objetos ou um grupod de objetos relacionados entre si.
 
-#### [Structural patterns](./2.Structural-design-patterns)
+#### [Structural pattern](./2.Structural-design-patterns)
 - Decorator
 - Façade
 - Flyweight
 
-Structural pattern é usado para definir a estrutura do objeto
+Structural pattern é usado para definir a estrutura do objeto ou como podem se relacionar uns com os outros.
 
-#### [Behavioral patterns](./3.Behavioral-design-patterns)
+#### [Behavioral pattern](./3.Behavioral-design-patterns)
 - Command
 - Mediator
 - Observer
 
-Behavioral pattern é usado para definir a como um objeto se relaciona com o outro e como eles operam.
+Behavioral pattern é usado para atribuir responsabilidades entre os objetos e também especificam os padrões de comunicação entre os mesmos.
 
 ---
 

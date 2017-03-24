@@ -1,5 +1,4 @@
 // Classe Pen
-
 class Pen {
   constructor() {
     this.role = 'write'

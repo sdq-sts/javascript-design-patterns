@@ -1,3 +1,4 @@
+// Importando pelo padrão commonJS
 const Calculator = require('./Calculator')
 const Printer = require('./Printer')
 const Pen = require('./Pen')
@@ -25,4 +26,5 @@ class Factory {
   }
 }
 
+// Exportando a classe pelo padrão commonJS
 module.exports = Factory

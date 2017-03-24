@@ -1,5 +1,5 @@
 const ObjectFactory = require('./objects/_factory')
-const factory = new ObjectFactory()
+const factory = new ObjectFactory() // Instanciando a classe
 
 const printer = factory.create('Printer')
 const calc = factory.create('Calculator')

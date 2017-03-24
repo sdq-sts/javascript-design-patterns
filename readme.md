@@ -14,10 +14,10 @@ Esses são os principais padrões em Javascript:
 
 
 #### [Creational pattern](./1.Creational-design-patterns)
-- Constructor
-- Module
-- Factory
-- Singleton
+- [Constructor](./1.Creational-design-patterns/Constructor-pattern/)
+- [Module](./1.Creational-design-patterns/Module-pattern/)
+- [Factory](./1.Creational-design-patterns/Factory-pattern/)
+- [Singleton](./1.Creational-design-patterns/Singleton-pattern/)
 
 Creational pattern é usado para criar novos objetos ou um grupod de objetos relacionados entre si.
 

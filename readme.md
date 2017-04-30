@@ -26,7 +26,7 @@ Creational pattern é usado para criar novos objetos ou um grupod de objetos rel
 - Façade
 - Flyweight
 
-Structural pattern é usado para definir a estrutura do objeto ou como podem se relacionar uns com os outros.
+Structural pattern é usado para definir a estrutura do objeto ou como podem se relacionar uns com os outros. É muito útil para estender funcionalidades e/ou simplificá-las.
 
 #### [Behavioral pattern](./3.Behavioral-design-patterns)
 - Command

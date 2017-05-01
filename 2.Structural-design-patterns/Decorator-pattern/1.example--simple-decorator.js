@@ -29,11 +29,11 @@ Heineken.prototype.getDescription = function() {
 // Agora vamos criar algumas cervejas
 
 // Simple beer
-const beer = new Beer()
-console.log('Cost: ', beer.getCost())
-console.log('Description: ', beer.getDescription())
+const simpleBeer = new Beer()
+console.log('Cost:', simpleBeer.getCost())
+console.log('Description:', simpleBeer.getDescription())
 
 // Heineken
-const NiceBeer = new Heineken(beer)
-console.log('Cost: ', NiceBeer.getCost())
-console.log('Description: ', NiceBeer.getDescription())
+const niceBeer = new Heineken(simpleBeer)
+console.log('Cost:', niceBeer.getCost())
+console.log('Description:', niceBeer.getDescription())

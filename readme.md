@@ -12,7 +12,6 @@ Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, também conhecidos co
 
 Esses são os principais padrões em Javascript:
 
-
 #### [Creational pattern](./1.Creational-design-patterns)
 - [Constructor](./1.Creational-design-patterns/Constructor-pattern/)
 - [Module](./1.Creational-design-patterns/Module-pattern/)
@@ -22,9 +21,9 @@ Esses são os principais padrões em Javascript:
 Creational pattern é usado para criar novos objetos ou um grupod de objetos relacionados entre si.
 
 #### [Structural pattern](./2.Structural-design-patterns)
-- Decorator
-- Façade
-- Flyweight
+- [Decorator](./2.Structural-design-patterns/Decorator-pattern)
+- [Façade](./2.Structural-design-patterns/Facade-pattern)
+- [Flyweight](./2.Structural-design-patterns/Flyweight-pattern)
 
 Structural pattern é usado para definir a estrutura do objeto ou como podem se relacionar uns com os outros. É muito útil para estender funcionalidades e/ou simplificá-las.
 
@@ -33,7 +32,7 @@ Structural pattern é usado para definir a estrutura do objeto ou como podem se 
 - Mediator
 - Observer
 
-Behavioral pattern é usado para atribuir responsabilidades entre os objetos e também especificam os padrões de comunicação entre os mesmos.
+Behavioral pattern é usado para atribuir responsabilidades dos objetos e também especificam os padrões de comunicação entre os mesmos.
 
 ---
 

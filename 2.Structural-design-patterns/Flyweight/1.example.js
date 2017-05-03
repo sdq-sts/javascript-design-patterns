@@ -44,7 +44,7 @@ function CarsList() {
 // Definindo variáveis de criação de objeto
 const owners = ['Ana', 'Paul', 'Amanda', 'Daniel']
 const colors = ['Red', 'Blue', 'Black', 'White', 'Silver']
-const manufacturers = ['Tesla', 'Ford', 'Wolksvagem', 'Chevrolet']
+const manufacturers = ['Tesla', 'Ford', 'Volksvagem', 'Chevrolet']
 const isUsed = [true, false]
 const prices = [20000, 25000, 30000, 35000, 40000]
 
